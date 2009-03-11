@@ -1,0 +1,7 @@
+= core_image_tool
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Cory Forsyth. See LICENSE for details.
