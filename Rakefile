@@ -5,10 +5,12 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "core_image_tool"
-    gem.summary = %Q{TODO}
+    gem.summary = "Wrapper for the CoreImageTool binary from Marc Liyanage"
     gem.email = "cory.forsyth@gmail.com"
     gem.homepage = "http://github.com/bantic/core_image_tool"
-    gem.authors = ["Cory Forsyth"]
+    gem.authors = ["Cory Forsyth", "Mark Liyanage"]
+    gem.bindir = "bin"
+    gem.executables << 'core_image_tool'
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 rescue LoadError
