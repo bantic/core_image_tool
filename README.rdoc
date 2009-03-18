@@ -2,6 +2,12 @@
 
 Description goes here.
 
+== See
+
+http://www.entropy.ch/software/macosx/coreimagetool/
+and
+http://developer.apple.com/documentation/GraphicsImaging/Reference/CoreImageFilterReference/Reference/reference.html
+
 == Copyright
 
 Copyright (c) 2009 Cory Forsyth. See LICENSE for details.
